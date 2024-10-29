@@ -1,0 +1,51 @@
+ body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+ }
+ hr{
+    width: 97%;
+    margin: auto;
+ }
+
+
+.bikelogo img{
+    width: 150px;
+    padding-left: 20px;
+}
+
+.card-section{
+  display: flex;
+  flex-wrap: wrap;
+margin-top: 20px;
+   width:80%;
+}
+.each-card{
+   width: 30%;
+margin-left: 30px;
+margin-bottom: 30px;
+}
+.each-card img{
+   width: 100%;
+}
+.card-body{
+   background-color: rgb(255,215,0) ;
+}
+.card-title{
+   font-weight: 800;
+}
+.font-icon{
+   background-color: rgb(255,215,0);
+   color: white;
+ margin-left: 10px;
+ padding: 10px;
+}
+.filter-section{
+   width: 20%;
+   float: left;
+}
+.footer{
+   text-align: center;
+
+   width: 100%;
+   background-color: ghostwhite;
+}
